@@ -1,5 +1,7 @@
 # Coinmarketcap API
-Demonstration API connection to CoinMarketCap (https://pro.coinmarketcap.com)
+Demonstration API connection to CoinMarketCap (https://pro.coinmarketcap.com). 
+
+Collect the first 5000 listings on CoinMarketCap based on their ID tag and exports to a csv file.
 
 **Setup**
 1. Create a CoinMarketCap api account. 
